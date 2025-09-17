@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifemakinde&label=Profile%20views&color=0e75b6&style=flat" alt="ifemakinde" /> </p>
 
 - 🌱 Currently learning **React and Tailwind.CSS**
-- 
-- 🌱 Interested in ** Next JS and Typescript **
+
+- 💻 Interested in **Next JS and Typescript**
 
 - 👯 I’m looking to collaborate on **React applications**
 
